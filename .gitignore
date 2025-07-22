@@ -1,0 +1,40 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.atom/
+*.tmLanguage
+*.sublime-project
+*.sublime-workspace
+*.project
+*.settings/
+*.idea
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# IntelliJ
+*.iml
+
+# Android
+app/src/main/assets/flutter_assets/
+android/app/src/main/assets/flutter_assets/
+android/key.properties
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/flutter_assets/
+
+# Firebase
+.firebase/
+firestore.rules
+
+# Custom config files
+/lib/config/firebase_config.dart
